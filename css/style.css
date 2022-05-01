@@ -1,0 +1,10 @@
+.lemon {
+  width: 400px;
+  height: 400px;
+  background: url(../img/lemon.png);
+  border-radius: 75% 20px 75% 35px;
+  transform: rotate(30deg);
+  margin: 0 auto;
+  background-repeat: round;
+}
+
